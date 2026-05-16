@@ -1,5 +1,9 @@
 # 🔌 Network Traffic Analyzer
 
+🌐 **Live Demo:**
+https://network-analyzer-dxtt.onrender.com  
+*(may take ~1 min to load on first visit; free tier goes to sleep when inactive)*
+
 A Python-based tool that parses real network capture files (.pcap/.pcapng) and displays traffic insights in an interactive web dashboard.
 
 Built as a practical application of networking knowledge from Telecommunication Technologies and Data Transmission Engineering studies at Riga Technical University.
@@ -42,8 +46,6 @@ python parser.py
 
 **6. Launch the dashboard**
 python app.py
-
-Open your browser at `http://127.0.0.1:5000`
 
 ## 📸 Screenshot
 
